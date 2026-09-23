@@ -7,7 +7,8 @@ Console.WriteLine("║   АВТОСАЛОН / АРЕНДА АВТОМОБИЛЕ�
 Console.WriteLine("║   Лабораторная работа №2                 ║");
 Console.WriteLine("╚══════════════════════════════════════════╝");
 Console.WriteLine();
-
+//коммит
+//коммит
 bool running = true;
 while (running)
 {
